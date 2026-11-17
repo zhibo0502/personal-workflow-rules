@@ -1,0 +1,8 @@
+{
+  "name": "personal-workflow-rules",
+  "version": "0.2.0",
+  "description": "我的通用规则：验证规则 + pstack 角色分工。每次会话开始时自动注入上下文；提交门禁默认只记录不拦截。",
+  "author": {
+    "name": "me"
+  }
+}

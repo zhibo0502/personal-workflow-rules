@@ -1,0 +1,14 @@
+{
+  "name": "zhibo-personal",
+  "description": "zhibo0502 的个人 Claude Code 插件",
+  "owner": {
+    "name": "zhibo0502"
+  },
+  "plugins": [
+    {
+      "name": "personal-workflow-rules",
+      "source": "./plugins/personal-workflow-rules",
+      "description": "我的通用规则：验证规则 + pstack 角色分工"
+    }
+  ]
+}
